@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AtkGew">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/gew/libs/AtkGew.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

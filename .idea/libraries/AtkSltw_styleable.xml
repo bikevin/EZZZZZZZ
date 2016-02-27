@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AtkSltw-styleable">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/sltw-lib-styleable/libs/AtkSltw-styleable.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

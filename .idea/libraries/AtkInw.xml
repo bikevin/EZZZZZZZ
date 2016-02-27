@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AtkInw">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/inw/libs/AtkInw.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

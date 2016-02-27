@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="engine">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/sdk/libs/com.myscript.prediction.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/sdk/libs/com.myscript.text.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/sdk/libs/com.myscript.engine.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AtkGewStyleable">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/gew-lib-styleable/libs/AtkGewStyleable.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

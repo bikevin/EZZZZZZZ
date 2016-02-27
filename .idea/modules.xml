@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/samples/atk-samples-certificate/atk-samples-certificate.iml" filepath="$PROJECT_DIR$/samples/atk-samples-certificate/atk-samples-certificate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/gew/gew.iml" filepath="$PROJECT_DIR$/libs/gew/gew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/gew-lib-styleable/gew-lib-styleable.iml" filepath="$PROJECT_DIR$/libs/gew-lib-styleable/gew-lib-styleable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/gew/gew-sample.iml" filepath="$PROJECT_DIR$/samples/gew/gew-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/inw/inw.iml" filepath="$PROJECT_DIR$/libs/inw/inw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/itc/itc.iml" filepath="$PROJECT_DIR$/libs/itc/itc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/itc/itc-sample.iml" filepath="$PROJECT_DIR$/samples/itc/itc-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/maw/maw.iml" filepath="$PROJECT_DIR$/libs/maw/maw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/maw-lib-styleable/maw-lib-styleable.iml" filepath="$PROJECT_DIR$/libs/maw-lib-styleable/maw-lib-styleable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/maw/maw-sample.iml" filepath="$PROJECT_DIR$/samples/maw/maw-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/mltw/mltw.iml" filepath="$PROJECT_DIR$/libs/mltw/mltw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/mltw/mltw-sample.iml" filepath="$PROJECT_DIR$/samples/mltw/mltw-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/scw/scw.iml" filepath="$PROJECT_DIR$/libs/scw/scw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/scw/scw-sample.iml" filepath="$PROJECT_DIR$/samples/scw/scw-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/sdk/sdk.iml" filepath="$PROJECT_DIR$/libs/sdk/sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/sltw/sltw.iml" filepath="$PROJECT_DIR$/libs/sltw/sltw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/sltw-lib-styleable/sltw-lib-styleable.iml" filepath="$PROJECT_DIR$/libs/sltw-lib-styleable/sltw-lib-styleable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/sltw/sltw-sample.iml" filepath="$PROJECT_DIR$/samples/sltw/sltw-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/styluscore/styluscore.iml" filepath="$PROJECT_DIR$/libs/styluscore/styluscore.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AtkScw">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/scw/libs/AtkScw.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

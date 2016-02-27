@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AtkMltw">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/mltw/libs/AtkMltw.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
